@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 📓 [我的博客](https://blog.turl.tech/)
 
 <a href='#'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengguohuang&hide_border=true&layout=compact&langs_count=8&exclude_repo=InnoFang.github.io" />
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=zhengguohuang&show_icons=true&theme=flag-india&hide_border=true&count_private=true'>
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=zhengguohuang&show_icons=true&theme=flag-india&hide_border=true&count_private=true'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengguohuang&hide_border=true&layout=compact&langs_count=8" />
 </a>
