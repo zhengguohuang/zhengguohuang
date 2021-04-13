@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 关于我
+- 🎓 计算机技术硕士研究生在读，方向：ML for Database
+- :books: 现在在学习 MySQL、Redis
+- 😍 喜爱看书:blue_book:、Coding:octocat:，钓鱼:fish:，跑步:ramen:
+- 📓 [我的博客](https://blog.turl.tech/)
+
+[![zhengguohuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengguohuang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengguohuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
